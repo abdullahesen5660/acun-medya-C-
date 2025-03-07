@@ -1,0 +1,21 @@
+C:\Users\Administrator\Desktop\acunmedya\C#NCiPG1-SL-19-25\SL19OOP\SL19OOP\bin\Debug\net8.0\SL19OOP.exe
+C:\Users\Administrator\Desktop\acunmedya\C#NCiPG1-SL-19-25\SL19OOP\SL19OOP\bin\Debug\net8.0\SL19OOP.deps.json
+C:\Users\Administrator\Desktop\acunmedya\C#NCiPG1-SL-19-25\SL19OOP\SL19OOP\bin\Debug\net8.0\SL19OOP.runtimeconfig.json
+C:\Users\Administrator\Desktop\acunmedya\C#NCiPG1-SL-19-25\SL19OOP\SL19OOP\bin\Debug\net8.0\SL19OOP.dll
+C:\Users\Administrator\Desktop\acunmedya\C#NCiPG1-SL-19-25\SL19OOP\SL19OOP\bin\Debug\net8.0\SL19OOP.pdb
+C:\Users\Administrator\Desktop\acunmedya\C#NCiPG1-SL-19-25\SL19OOP\SL19OOP\obj\Debug\net8.0\SL19OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\acunmedya\C#NCiPG1-SL-19-25\SL19OOP\SL19OOP\obj\Debug\net8.0\SL19OOP.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\acunmedya\C#NCiPG1-SL-19-25\SL19OOP\SL19OOP\obj\Debug\net8.0\SL19OOP.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\acunmedya\C#NCiPG1-SL-19-25\SL19OOP\SL19OOP\obj\Debug\net8.0\SL19OOP.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\acunmedya\C#NCiPG1-SL-19-25\SL19OOP\SL19OOP\obj\Debug\net8.0\SL19OOP.dll
+C:\Users\Administrator\Desktop\acunmedya\C#NCiPG1-SL-19-25\SL19OOP\SL19OOP\obj\Debug\net8.0\refint\SL19OOP.dll
+C:\Users\Administrator\Desktop\acunmedya\C#NCiPG1-SL-19-25\SL19OOP\SL19OOP\obj\Debug\net8.0\SL19OOP.pdb
+C:\Users\Administrator\Desktop\acunmedya\C#NCiPG1-SL-19-25\SL19OOP\SL19OOP\obj\Debug\net8.0\SL19OOP.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\acunmedya\C#NCiPG1-SL-19-25\SL19OOP\SL19OOP\obj\Debug\net8.0\ref\SL19OOP.dll
+C:\Users\Monster\OneDrive\Masaüstü\acun medya\C#NCiPG1-SL-19-25 (1)\C#NCiPG1-SL-19-25\SL19OOP\SL19OOP\obj\Debug\net8.0\SL19OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\OneDrive\Masaüstü\acun medya\C#NCiPG1-SL-19-25 (1)\C#NCiPG1-SL-19-25\SL19OOP\SL19OOP\obj\Debug\net8.0\SL19OOP.AssemblyInfoInputs.cache
+C:\Users\Monster\OneDrive\Masaüstü\acun medya\C#NCiPG1-SL-19-25 (1)\C#NCiPG1-SL-19-25\SL19OOP\SL19OOP\obj\Debug\net8.0\SL19OOP.AssemblyInfo.cs
+C:\Users\Monster\OneDrive\Masaüstü\acun medya\C#NCiPG1-SL-19-25 (1)\C#NCiPG1-SL-19-25\SL19OOP\SL19OOP\obj\Debug\net8.0\SL19OOP.csproj.CoreCompileInputs.cache
+C:\Users\Monster\OneDrive\Masaüstü\acun medya\C#NCiPG1-SL-19-25 (1)\C#NCiPG1-SL-19-25\SL19OOP\SL19OOP\obj\Debug\net8.0\SL19OOP.dll
+C:\Users\Monster\OneDrive\Masaüstü\acun medya\C#NCiPG1-SL-19-25 (1)\C#NCiPG1-SL-19-25\SL19OOP\SL19OOP\obj\Debug\net8.0\refint\SL19OOP.dll
+C:\Users\Monster\OneDrive\Masaüstü\acun medya\C#NCiPG1-SL-19-25 (1)\C#NCiPG1-SL-19-25\SL19OOP\SL19OOP\obj\Debug\net8.0\SL19OOP.pdb
